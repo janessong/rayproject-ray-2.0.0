@@ -1,1 +1,1 @@
-From rayproject/ray:2.0.0
+From rayproject/ray:2.5.0
